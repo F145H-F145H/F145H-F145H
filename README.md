@@ -40,20 +40,19 @@
 
 ---
 
-### 🗂️ 代表项目
+### 🗂️ 项目
 
 - [Blog](https://github.com/F145H-F145H/Blog)：技术笔记与成长记录
 - [NGFuzz](https://github.com/F145H-F145H/NGFuzz)：自研 Fuzz 工具
 - [HiNewUbuntu](https://github.com/F145H-F145H/HiNewUbuntu)：新机环境自动配置脚本
-- [vmmm](https://github.com/F145H-F145H/vmmm)：迷你虚拟机实现与研究
-- [miniapp](https://github.com/F145H-F145H/miniapp)：日常工具箱集合
 
 ---
 
 ### 🎮 兴趣爱好
 
-- 喜欢 Lain、超天酱等动漫角色
-- 摄影、游戏、探索技术与生活的更多可能
+- 动漫与二次元文化爱好者，喜欢 Lain、超天酱等角色
+- 摄影控，乐于用镜头定格技术与生活
+- 游戏/数码探索，享受发现与创作的过程
 
 ---
 
