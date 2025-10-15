@@ -59,9 +59,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=F145H-F145H&show_icons=true&theme=default&hide_title=true&hide_rank=true&hide_border=true" height="140" alt="stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F145H-F145H&theme=default&hide_border=true" height="140" alt="streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F145H-F145H&layout=compact&theme=default&hide_border=true" height="140" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=F145H-F145H&show_icons=true&theme=default&hide_title=true&hide_rank=true&hide_border=true" height="160" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=F145H-F145H&theme=default&hide_border=true" height="160" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F145H-F145H&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages">
 
 </div>
 
