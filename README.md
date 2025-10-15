@@ -43,6 +43,7 @@
 ### 🗂️ 项目
 
 - [Blog](https://github.com/F145H-F145H/Blog)：技术笔记与成长记录
+- [EzScripts](https://github.com/F145H-F145H/EzScripts)：记录一些好用的小脚本
 
 ---
 
