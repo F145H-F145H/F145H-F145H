@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <b>大四本科生 | 物联网安全方向 | 求职中 | f145h@qq.com </b>
+  <b>大四本科生 | 网络安全方向 | 求职中 | f145h@qq.com </b>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ### 🛡️ 关于我
 
-- 🎓 大四本科生，专注于物联网安全
+- 🎓 大四本科生，专注于网络安全
 - 🔍 方向：漏洞挖掘、逆向分析、渗透测试、二进制漏洞
 - 📝 技术成长与总结持续记录于 [个人博客](https://github.com/F145H-F145H/Blog)
 - 📧 邮箱：f145h@qq.com
-- 🚀 期待在物联网安全领域深耕，欢迎交流与合作！
+- 🚀 期待在安全领域深耕，欢迎交流与合作！
 
 ---
 
@@ -43,8 +43,6 @@
 ### 🗂️ 项目
 
 - [Blog](https://github.com/F145H-F145H/Blog)：技术笔记与成长记录
-- [NGFuzz](https://github.com/F145H-F145H/NGFuzz)：自研 Fuzz 工具
-- [HiNewUbuntu](https://github.com/F145H-F145H/HiNewUbuntu)：新机环境自动配置脚本
 
 ---
 
